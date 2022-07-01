@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/out/production/medianotes/Authentication.class
+/out/production/medianotes/Main.class
+/out/production/medianotes/Note.class
